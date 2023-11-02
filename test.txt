@@ -1,15 +1,16 @@
-This is my first file. This file created only for testing purpose.
+This is my first file. This file was created only for testing purposes.
 I am editing the using the popular nano editor.
-I have added the line to push into github
+I have added the line to push into GitHub
 
 Here is a poem:
 
 As though I see you always and everywhere
 Find no chance for having a bird's eye view together.
-Sure, I fall in love with you.
+Sure, I fell in love with you.
 A lot, not a few.
 Note, it's not  false it's true.
 And I will always love you.
 
-Absense of you in my life
+Absence of you in my life
 Next to impossible stay alive.
+
